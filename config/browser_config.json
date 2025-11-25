@@ -1,0 +1,12 @@
+{
+  "browser": "chromium",
+  "headless": false,
+  "slow_mo": 0,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "video": "on",
+  "screenshot": "only-on-failure",
+  "trace": "on"
+}

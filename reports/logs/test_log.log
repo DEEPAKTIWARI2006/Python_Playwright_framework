@@ -1,0 +1,9 @@
+2025-11-20 13:13:18,280 - BrowserFixture - INFO - Logger initialized.
+2025-11-20 15:38:24,032 - BasePage - INFO - Navigating to https://qa.example.com/login
+2025-11-20 15:40:50,349 - BasePage - INFO - Navigating to https://demo.automationtesting.in/Register.html
+2025-11-20 15:44:32,280 - BasePage - INFO - Navigating to https://demo.automationtesting.in/Register.html
+2025-11-20 15:44:33,686 - LoginPage - INFO - Logging in with user: admin
+2025-11-20 15:49:40,175 - BasePage - INFO - Navigating to https://demo.automationtesting.in/Register.html
+2025-11-20 15:49:42,196 - LoginPage - INFO - Logging in with user: admin
+2025-11-25 13:08:25,359 - BasePage - INFO - Navigating to https://demo.automationtesting.in/Register.html
+2025-11-25 13:08:34,137 - LoginPage - INFO - Logging in with user: admin
